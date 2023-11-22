@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(202,210,199);
+}
+nav {
+  background-color: rgb(47, 61, 70);
+}
+.head{
+color: white;
+margin-left: 30em;
+font-style: normal;
+}
+.empty{
+background-color: rgb(53,53,53);
+height: 30em;
+width: 15em;
+border-radius: 20px;
+margin-left: 90px;
+}
+.box{
+ border-radius: 10px;
+ background-color: rgb(53,53,53);
+ height: 40px;
+ width: 30em;
+ margin-left: 32em;
+}
+.box1{
+background-color: rgb(53,53,53);
+height: 100px;
+width: 12em;
+border-radius: 20px;
+margin-top: 5em;
+margin-left: 20em;
+}
+.end{
+background-color: rgb(53,53,53);
+height: 8em;
+width: 52em;
+border-radius: 20px;
+margin-top: 5em;
+margin-left: 20em;
+}
